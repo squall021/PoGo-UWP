@@ -259,7 +259,7 @@ Open page with installation files for manual install?</source>
         </trans-unit>
         <trans-unit id="WaitingForNetworkText" translate="yes" xml:space="preserve">
           <source>Waiting for network to be back...</source>
-          <target state="new">Waiting for network to be back...</target>
+          <target state="translated">正在等待網路恢復...</target>
         </trans-unit>
         <trans-unit id="EggHatchMessage" translate="yes" xml:space="preserve">
           <source>An Egg hatched into a {0}.
@@ -269,7 +269,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="EvolvePokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to evolve {0}?</source>
-          <target state="new">Do you want to evolve {0}?</target>
+          <target state="translated">你想要進化 {0}?</target>
         </trans-unit>
         <trans-unit id="PowerUpPokemonWarningText" translate="yes" xml:space="preserve">
           <source>Do you want to use a power up for {0}?</source>
@@ -277,20 +277,20 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="TransferPokemonWarningTitle" translate="yes" xml:space="preserve">
           <source>Do you really want to transfer {0} to the Professor?</source>
-          <target state="new">Do you really want to transfer {0} to the Professor?</target>
+          <target state="translated">是否真的要傳送 {0} 給教授?</target>
         </trans-unit>
         <trans-unit id="CancelText" translate="yes" xml:space="preserve">
           <source>CANCEL</source>
-          <target state="new">CANCEL</target>
+          <target state="translated">取消</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Capslock</note>
         </trans-unit>
         <trans-unit id="ItemDiscardWarningText" translate="yes" xml:space="preserve">
           <source>Discard {0}?</source>
-          <target state="new">Discard {0}?</target>
+          <target state="translated">取消 {0}?</target>
         </trans-unit>
         <trans-unit id="SetNickName" translate="yes" xml:space="preserve">
           <source>Set Nickname</source>
-          <target state="new">Set Nickname</target>
+          <target state="translated">設定暱稱</target>
         </trans-unit>
       </group>
     </body>
@@ -456,7 +456,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="CandyTextBlock.Text" translate="yes" xml:space="preserve">
           <source> CANDY</source>
-          <target state="translated"> 糖果</target>
+          <target state="translated">糖果</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Watch out: space before the word!</note>
         </trans-unit>
         <trans-unit id="EvolveButton.Content" translate="yes" xml:space="preserve">
@@ -473,27 +473,27 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="PokedexCaught.Text" translate="yes" xml:space="preserve">
           <source>Caught:</source>
-          <target state="new">Caught:</target>
+          <target state="translated">已抓到:</target>
         </trans-unit>
         <trans-unit id="PokedexEvolutions.Text" translate="yes" xml:space="preserve">
           <source>Evolutions</source>
-          <target state="new">Evolutions</target>
+          <target state="translated">進化s</target>
         </trans-unit>
         <trans-unit id="PokedexPokemonHeight.Text" translate="yes" xml:space="preserve">
           <source>Height:</source>
-          <target state="new">Height:</target>
+          <target state="translated">身高:</target>
         </trans-unit>
         <trans-unit id="PokedexPokemonType.Text" translate="yes" xml:space="preserve">
           <source>Type:</source>
-          <target state="new">Type:</target>
+          <target state="translated">種類:</target>
         </trans-unit>
         <trans-unit id="PokedexPokemonWeight.Text" translate="yes" xml:space="preserve">
           <source>Weight:</source>
-          <target state="new">Weight:</target>
+          <target state="translated">重量:</target>
         </trans-unit>
         <trans-unit id="PokedexSeen.Text" translate="yes" xml:space="preserve">
           <source>Seen:</source>
-          <target state="new">Seen:</target>
+          <target state="translated">已發現:</target>
         </trans-unit>
         <trans-unit id="PokedexText.Text" translate="yes" xml:space="preserve">
           <source>POKÉDEX</source>
@@ -501,15 +501,15 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="PokedexViewCaught.Text" translate="yes" xml:space="preserve">
           <source>Caught</source>
-          <target state="new">Caught</target>
+          <target state="translated">已抓到</target>
         </trans-unit>
         <trans-unit id="PokedexViewSeen.Text" translate="yes" xml:space="preserve">
           <source>Seen</source>
-          <target state="new">Seen</target>
+          <target state="translated">已發現</target>
         </trans-unit>
         <trans-unit id="TimesTextBlock.Text" translate="yes" xml:space="preserve">
           <source>times</source>
-          <target state="new">times</target>
+          <target state="translated">道具</target>
         </trans-unit>
         <trans-unit id="EggDetailButtonTextBlock.Text" translate="yes" xml:space="preserve">
           <source>START INCUBATION</source>
@@ -521,7 +521,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="TransferTextBlock.Text" translate="yes" xml:space="preserve">
           <source>TRANSFER</source>
-          <target state="new">TRANSFER</target>
+          <target state="translated">傳送</target>
         </trans-unit>
         <trans-unit id="SettingsLanguageRestartTextBlock.Text" translate="yes" xml:space="preserve">
           <source>You must restart the App to take effect.</source>
@@ -529,11 +529,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="SettingsLanguageTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="new">Language</target>
+          <target state="translated">語系</target>
         </trans-unit>
         <trans-unit id="SettingsCompassEnabledTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Use compass</source>
-          <target state="new">Use compass</target>
+          <target state="translated">使用羅盤</target>
         </trans-unit>
         <trans-unit id="SettingsLiveTileTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Live Tile Mode</source>
@@ -541,7 +541,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="FavoriteTextBlock.Text" translate="yes" xml:space="preserve">
           <source>FAVORITE</source>
-          <target state="new">FAVORITE</target>
+          <target state="translated">最愛</target>
         </trans-unit>
       </group>
     </body>
@@ -580,7 +580,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="D_ItemIncubatorBasicUnlimited" translate="yes" xml:space="preserve">
           <source>A device that incubates an Egg as you walk until it is ready to hatch. Unlimited use!</source>
-          <target state="needs-review-translation">開始孵化一隻寶可夢蛋，在行走距離達到要求後寶可夢蛋將會孵化。</target>
+          <target state="needs-review-translation">開始孵化一顆寶可夢蛋，達到行走距離要求後寶可夢蛋將會孵化。</target>
           <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="D_ItemMasterBall" translate="yes" xml:space="preserve">
@@ -653,7 +653,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemMasterBall" translate="yes" xml:space="preserve">
           <source>Master Ball</source>
-          <target state="translated">掌門球</target>
+          <target state="translated">大師球</target>
         </trans-unit>
         <trans-unit id="ItemMaxPotion" translate="yes" xml:space="preserve">
           <source>Max Potion</source>
@@ -685,11 +685,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemRazzBerry" translate="yes" xml:space="preserve">
           <source>Razz Berry</source>
-          <target state="translated">紅蔓莓</target>
+          <target state="translated">木莓果</target>
         </trans-unit>
         <trans-unit id="ItemRevive" translate="yes" xml:space="preserve">
           <source>Revive</source>
-          <target state="translated">復活石</target>
+          <target state="translated">復活劑</target>
         </trans-unit>
         <trans-unit id="ItemSpecialCamera" translate="yes" xml:space="preserve">
           <source>Special Camera</source>
@@ -701,7 +701,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="ItemTroyDisk" translate="yes" xml:space="preserve">
           <source>Lure Module</source>
-          <target state="translated">Lure Module</target>
+          <target state="translated">引誘裝置</target>
         </trans-unit>
         <trans-unit id="ItemUltraBall" translate="yes" xml:space="preserve">
           <source>Ultra Ball</source>
@@ -1052,7 +1052,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Butterfree" translate="yes" xml:space="preserve">
           <source>Butterfree</source>
-          <target state="translated">巴大蝶</target>
+          <target state="translated">巴大蝴</target>
         </trans-unit>
         <trans-unit id="Caterpie" translate="yes" xml:space="preserve">
           <source>Caterpie</source>
@@ -1084,7 +1084,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Cloyster" translate="yes" xml:space="preserve">
           <source>Cloyster</source>
-          <target state="translated">刺甲貝</target>
+          <target state="translated">鐵甲貝</target>
         </trans-unit>
         <trans-unit id="Cubone" translate="yes" xml:space="preserve">
           <source>Cubone</source>
@@ -1124,7 +1124,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Drowzee" translate="yes" xml:space="preserve">
           <source>Drowzee</source>
-          <target state="translated">催眠獏</target>
+          <target state="translated">素利普</target>
         </trans-unit>
         <trans-unit id="Dugtrio" translate="yes" xml:space="preserve">
           <source>Dugtrio</source>
@@ -1144,7 +1144,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Electrode" translate="yes" xml:space="preserve">
           <source>Electrode</source>
-          <target state="translated">頑皮雷彈</target>
+          <target state="translated">頑皮彈</target>
         </trans-unit>
         <trans-unit id="Exeggcute" translate="yes" xml:space="preserve">
           <source>Exeggcute</source>
@@ -1164,7 +1164,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Flareon" translate="yes" xml:space="preserve">
           <source>Flareon</source>
-          <target state="translated">火伊布</target>
+          <target state="translated">火精靈</target>
         </trans-unit>
         <trans-unit id="Gastly" translate="yes" xml:space="preserve">
           <source>Gastly</source>
@@ -1220,11 +1220,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Hitmonchan" translate="yes" xml:space="preserve">
           <source>Hitmonchan</source>
-          <target state="translated">快拳郎</target>
+          <target state="translated">艾比郎</target>
         </trans-unit>
         <trans-unit id="Hitmonlee" translate="yes" xml:space="preserve">
           <source>Hitmonlee</source>
-          <target state="translated">飛腿郎</target>
+          <target state="translated">沙瓦郎</target>
         </trans-unit>
         <trans-unit id="Horsea" translate="yes" xml:space="preserve">
           <source>Horsea</source>
@@ -1232,7 +1232,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Hypno" translate="yes" xml:space="preserve">
           <source>Hypno</source>
-          <target state="translated">引夢獏人</target>
+          <target state="translated">素利拍</target>
         </trans-unit>
         <trans-unit id="Ivysaur" translate="yes" xml:space="preserve">
           <source>Ivysaur</source>
@@ -1244,7 +1244,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Jolteon" translate="yes" xml:space="preserve">
           <source>Jolteon</source>
-          <target state="translated">雷伊布</target>
+          <target state="translated">雷精靈</target>
         </trans-unit>
         <trans-unit id="Jynx" translate="yes" xml:space="preserve">
           <source>Jynx</source>
@@ -1264,11 +1264,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Kakuna" translate="yes" xml:space="preserve">
           <source>Kakuna</source>
-          <target state="translated">鐵殼蛹</target>
+          <target state="translated">鐵殼昆</target>
         </trans-unit>
         <trans-unit id="Kangaskhan" translate="yes" xml:space="preserve">
           <source>Kangaskhan</source>
-          <target state="translated">袋獸</target>
+          <target state="translated">袋龍</target>
         </trans-unit>
         <trans-unit id="Kingler" translate="yes" xml:space="preserve">
           <source>Kingler</source>
@@ -1308,7 +1308,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Magmar" translate="yes" xml:space="preserve">
           <source>Magmar</source>
-          <target state="translated">鴨嘴火獸</target>
+          <target state="translated">鴨嘴火龍</target>
         </trans-unit>
         <trans-unit id="Magnemite" translate="yes" xml:space="preserve">
           <source>Magnemite</source>
@@ -1352,7 +1352,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="MrMime" translate="yes" xml:space="preserve">
           <source>MrMime</source>
-          <target state="translated">魔牆人偶</target>
+          <target state="translated">吸盤人偶</target>
         </trans-unit>
         <trans-unit id="Muk" translate="yes" xml:space="preserve">
           <source>Muk</source>
@@ -1416,7 +1416,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Pidgeot" translate="yes" xml:space="preserve">
           <source>Pidgeot</source>
-          <target state="translated">大比鳥</target>
+          <target state="translated">比鵰</target>
         </trans-unit>
         <trans-unit id="Pidgeotto" translate="yes" xml:space="preserve">
           <source>Pidgeotto</source>
@@ -1432,7 +1432,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Pinsir" translate="yes" xml:space="preserve">
           <source>Pinsir</source>
-          <target state="translated">凱羅斯</target>
+          <target state="translated">大甲</target>
         </trans-unit>
         <trans-unit id="Poliwag" translate="yes" xml:space="preserve">
           <source>Poliwag</source>
@@ -1440,11 +1440,11 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Poliwhirl" translate="yes" xml:space="preserve">
           <source>Poliwhirl</source>
-          <target state="translated">蚊香君</target>
+          <target state="translated">蚊香蛙</target>
         </trans-unit>
         <trans-unit id="Poliwrath" translate="yes" xml:space="preserve">
           <source>Poliwrath</source>
-          <target state="translated">蚊香泳士</target>
+          <target state="translated">快泳蛙</target>
         </trans-unit>
         <trans-unit id="Ponyta" translate="yes" xml:space="preserve">
           <source>Ponyta</source>
@@ -1452,7 +1452,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Porygon" translate="yes" xml:space="preserve">
           <source>Porygon</source>
-          <target state="translated">多邊獸</target>
+          <target state="translated">3D龍</target>
         </trans-unit>
         <trans-unit id="Primeape" translate="yes" xml:space="preserve">
           <source>Primeape</source>
@@ -1484,7 +1484,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Rhyhorn" translate="yes" xml:space="preserve">
           <source>Rhyhorn</source>
-          <target state="translated">獨角犀牛</target>
+          <target state="translated">鐵角犀牛</target>
         </trans-unit>
         <trans-unit id="Sandshrew" translate="yes" xml:space="preserve">
           <source>Sandshrew</source>
@@ -1560,7 +1560,7 @@ You also got {1} Stardust, {2} Candy and {3} XP.</target>
         </trans-unit>
         <trans-unit id="Vaporeon" translate="yes" xml:space="preserve">
           <source>Vaporeon</source>
-          <target state="translated">水伊布</target>
+          <target state="translated">水精靈</target>
         </trans-unit>
         <trans-unit id="Venomoth" translate="yes" xml:space="preserve">
           <source>Venomoth</source>
